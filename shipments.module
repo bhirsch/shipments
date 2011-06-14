@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Shipments feature.
+ */
+
+include_once('shipments.features.inc');

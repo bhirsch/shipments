@@ -15,7 +15,7 @@ function shipments_menu_default_menu_links() {
     'menu_name' => 'features',
     'link_path' => 'shipments',
     'router_path' => 'shipments',
-    'link_title' => 'Shipments',
+    'link_title' => 'Review Shipments',
     'options' => array(
       'attributes' => array(
         'title' => '',
@@ -30,7 +30,7 @@ function shipments_menu_default_menu_links() {
   );
   // Translatables
   // Included for use with string extractors like potx.
-  t('Shipments');
+  t('Review Shipments');
 
 
   return $menu_links;
